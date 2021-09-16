@@ -1,0 +1,154 @@
+
+#title{
+  background-color: #04009A;
+  color: #fff;
+}
+#features{
+  padding: 7% 15%;
+  background-color: #D8E3E7;
+  z-index: 1;
+  position: relative;
+}
+#testimonials{
+
+text-align: center;
+background-color: #04009A;
+color: #fff;
+
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h2{
+  font-family: 'ubuntu';
+  font-size: 3rem;
+  font-weight: bold;
+}
+h3{
+  font-family: "ubuntu";
+font-weight: bold;
+}
+
+p{
+  color: grey;
+}
+.f-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.icon{
+color: #005792;
+margin-bottom: 1rem;
+}
+
+.fa-check-circle:hover,.fa-heart:hover,.fa-bullseye:hover{
+  color: blue;
+}
+.container-fluid{
+padding: 12% 15%;
+
+}
+
+.navbar-brand{
+font-family: 'Ubuntu',sans-serif;
+font-weight: bold;
+font-size: 2rem;
+
+
+}
+.navbar{
+padding-bottom:0 0 4.5rem;
+
+}
+
+.iphonee{
+width:90%;
+transform: rotate(25deg);
+margin-left: 50%;
+margin-top: 20%;
+position: absolute;
+
+
+}
+.nav-item{
+padding: 0 18px;
+
+}
+
+.nav-link{
+font-family: 'Montserrat',sans-serif;
+font-weight: lighter;
+
+
+
+}
+.download{
+  margin: 5% 3% 5% 0;
+}
+
+.testimonial-image{
+width:10%;
+border-radius:100%;
+margin:20px;
+
+}
+.heading-rev{
+ padding: 5%;
+margin-bottom: 0;
+
+}
+#press{
+background-color: #04009A;
+text-align: center;
+padding-bottom: 3%;
+
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+.presss-img{
+width:12%;
+margin:20px 20px 50px;
+
+}
+#pricing{
+
+  padding: 100px;
+  text-align: center;
+background-color:  #D8E3E7;
+}
+.prc{
+  padding: 3% 2%;
+}
+.heading-pricing{
+  text-align: center;
+}
+.card-header{
+  background-color: #04009A;
+  color:#fff;
+}
+#cta{
+  text-align: center;
+  background-color: #04009A;
+  color: #fff;
+padding: 4% 5%;
+}
+.lb{
+  color: #fff;
+  margin: 2% 1%;
+}
+
+#footer{
+  text-align: center;
+  background-color: #D8E3E7;
+  margin-bottom: 0;
+  padding-bottom: 4px;
+
+}
+.cr{
+padding-top: 2%
+}
