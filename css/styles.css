@@ -2,6 +2,8 @@
 #title{
   background-color: #04009A;
   color: #fff;
+  position:relative;
+
 }
 #features{
   padding: 7% 15%;
@@ -14,6 +16,9 @@
 text-align: center;
 background-color: #04009A;
 color: #fff;
+z-index: 1;
+position: relative;
+
 
 }
 h1{
@@ -71,7 +76,6 @@ margin-left: 50%;
 margin-top: 20%;
 position: absolute;
 
-
 }
 .nav-item{
 padding: 0 18px;
@@ -104,7 +108,8 @@ margin-bottom: 0;
 background-color: #04009A;
 text-align: center;
 padding-bottom: 3%;
-
+z-index: 1;
+position: relative;
 }
 
 .carousel-item{
@@ -120,12 +125,15 @@ margin:20px 20px 50px;
   padding: 100px;
   text-align: center;
 background-color:  #D8E3E7;
+z-index: 1;
+position: relative;
 }
 .prc{
   padding: 3% 2%;
 }
 .heading-pricing{
   text-align: center;
+  position: relative;
 }
 .card-header{
   background-color: #04009A;
@@ -136,6 +144,9 @@ background-color:  #D8E3E7;
   background-color: #04009A;
   color: #fff;
 padding: 4% 5%;
+z-index: 1;
+position: relative;
+
 }
 .lb{
   color: #fff;
@@ -147,10 +158,9 @@ padding: 4% 5%;
   background-color: #D8E3E7;
   margin-bottom: 0;
   padding-bottom: 4px;
+  z-index: 1;
+  position: relative;
 
-}
-.cr{
-padding-top: 2%
 }
 .social-icon{
   position: flex;
@@ -166,21 +176,26 @@ padding-bottom: 0px;
 .q:hover{
   color: #04009A;
 }
+.cr{
+padding-top: 2%
+}
 
 @media (max-width:1300px){
 
 .iphonee{
-position:relative;
+position: fixed;
 transform: rotate(0);
-margin: 0;
+width:40%;
+margin:0;
+z-index: 0;
+
 
 }
 .container-fluid{
   text-align: center;
-}
-
-
 
 }
 
 
+
+}
