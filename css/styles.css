@@ -152,3 +152,34 @@ padding: 4% 5%;
 .cr{
 padding-top: 2%
 }
+.social-icon{
+  position: flex;
+  text-align: center;
+padding-top: 15px;
+padding-bottom: 0px;
+
+}
+.q{
+  padding-left: 4px;
+
+}
+.q:hover{
+  color: #04009A;
+}
+
+@media (max-width:1000px){
+
+.iphonee{
+position:fixed;
+transform: rotate(0);
+
+}
+.container-fluid{
+  text-align: center;
+}
+
+
+
+}
+
+
