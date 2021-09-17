@@ -187,8 +187,6 @@ position: fixed;
 transform: rotate(0);
 width:40%;
 margin:0;
-z-index: 0;
-
 
 }
 .container-fluid{
