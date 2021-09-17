@@ -167,11 +167,12 @@ padding-bottom: 0px;
   color: #04009A;
 }
 
-@media (max-width:1020px){
+@media (max-width:1300px){
 
 .iphonee{
-position:fixed;
+position:static;
 transform: rotate(0);
+margin: 0;
 
 }
 .container-fluid{
