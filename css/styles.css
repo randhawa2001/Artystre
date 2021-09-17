@@ -170,7 +170,7 @@ padding-bottom: 0px;
 @media (max-width:1300px){
 
 .iphonee{
-position:static;
+position:relative;
 transform: rotate(0);
 margin: 0;
 
